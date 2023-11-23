@@ -57,8 +57,6 @@ Play with `translate` to have the images set well.
 
 ### Continued development
 
-I will work on animation, to improve my skill in css.
-
 Learning from different challenge, going on making website on Font-End Mentor.
 
 
